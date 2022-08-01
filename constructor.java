@@ -2,11 +2,6 @@ import java.util.*;
 class circle
 {
 float r,area;
-circle()
-{
-r=0;
-area=1;
-}
 circle(float i)
 {
 r=i;
